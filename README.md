@@ -13,6 +13,6 @@ let setNewName = // Replace setNewName with the new name you want modify the fol
 ```
 
 ## ToDO
-[] Automate the script to accepts users entries at the CLI
-[] Convert to Functional Paradigm
-[] Use concepts of the OOP
+- [ ] Automate the script to accepts users entries at the CLI
+- [ ] Convert to Functional Paradigm
+- [ ] Use concepts of the OOP
